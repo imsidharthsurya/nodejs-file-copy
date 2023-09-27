@@ -1,0 +1,1 @@
+this is a readme txt file created to copy this in some other file.hope you are doing ok.
